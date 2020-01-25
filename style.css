@@ -91,13 +91,13 @@
 }
 
 .card2{
-    height: 700px;
+    height: 800px;
     background:blue;
 }
 
 .card2 .card2-block{
     width: 1000px;
-    height: 700px;
+    height: 800px;
     background:rgb(203, 250, 142);
     margin: 0 auto;
 }
@@ -111,15 +111,16 @@
 
 .card2-block .card{
     width:198px;
-    height: 300px;
+    height: 350px;
     margin: 0 auto;
     float: left;
     border: 1px solid #777
 }
 
 .card img{
-        height: 250px;
+        height: 280px;
         width: 100%;
+        
 }
 
 
