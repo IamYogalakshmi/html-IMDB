@@ -27,7 +27,7 @@
 
 .header .header-list{
     padding-left: 20px;
-    padding-bottom: 20px;
+    padding-bottom: 10px;
     padding-right: 50px;
     width: 500px;
     height: 70px;
@@ -87,21 +87,17 @@
 }
 
 .card1{
-    height: 400px;
+    height: 450px;
     background: #777;
 }
 
 .card1 .card1-block
         {
             width: 1000px;
-            height: 400px;
+            height: 450px;
             background-color: rgb(172, 149, 149);
-            margin-left: auto;
-            margin-right: auto;
-            margin-top: 0px;
             margin: 0 auto;
-            text-align: center;
-            overflow: hidden;
+         
             
             
         }
@@ -113,9 +109,27 @@
     float: left;
 }    
 
-.card .cardd1{
-    width: 700px;
+.card1-block .card ul{
+   
+    width: 1000px;
     height: 400px;
+    margin: 0;
+    padding: 0;
+}
+
+.card1-block .card ul li{
+    float: left;
+    
+   
+    list-style-type: none;
+}
+
+.card1-block .card .cardd1{
+    width: 600px;
+    height: 400px;
+    background: palevioletred;
+    margin: 0;
+    padding: 0;
 }
 
 .card .cardd1 h3{
@@ -123,10 +137,12 @@
     padding-left: 20px;
 }
 
-.card .cardd2{
-    width: 300px;
+.card1-block .card .cardd2{
+    width: 330px;
     height: 400px;
     background: palegreen;
+    margin: 0;
+    padding: 0;
 }
 
 
