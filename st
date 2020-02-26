@@ -1,0 +1,408 @@
+.header-section{
+    height: 80px;
+    background:white;
+}
+
+.header-section .header{
+    width: 1200px;
+    height: 80px;
+    background:white;
+    margin: 0 auto;
+    
+}
+
+.header .header-logo{
+    width: 100px;
+    height: 80px;
+    float: left;
+    
+}
+ .header-logo img{
+    width: 80px;
+    height: 80px;
+    padding-left: 10px;
+    padding-bottom: 30px;
+    
+ }
+
+.header .header-list{
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-right: 50px;
+    width: 500px;
+    height: 70px;
+    float: left;
+    color:black;
+    
+}
+
+
+
+.header-list ul{
+    padding-top: 8px;
+}
+
+.header-list ul li{
+    float: left;
+    margin: 0 10px;
+    list-style-type: none;
+    padding-top: 10px
+}
+
+.header .header-search{
+    width: 300px;
+    height: 60px;
+    float: left;
+    padding-top: 30px;
+
+}
+
+.header .header-image{
+  
+    width: 100px;
+    height: 60px;
+    float: left;
+    padding-top: 30px;
+}
+
+.header-image i{
+    float: left;
+    margin: 0 10px;
+}
+
+.header .header-pic{
+    
+    width: 100px;
+    height: 60px;
+    float: left;
+    padding-top: 16px;
+    padding-left: 20px;
+}
+
+.header .header-pic img{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+}
+
+.card1{
+    height: 450px;
+    background :rgb(68, 67, 67);
+    background-image: url(bg3.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-blend-mode: soft-light;
+    
+}
+
+.card1 .card1-block {
+    width: 1000px;
+    height: 450px;
+    
+    margin: 0 auto;
+    
+    background-image: url(bg5.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-blend-mode: soft-light;  
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);   
+            
+            
+}
+
+    
+.card1-block .card{
+    
+    width: 1000px;
+    height: 400px;
+    float: left;
+}    
+
+.card1-block .card ul{
+   
+    width: 1000px;
+    height: 400px;
+    margin: 0;
+    padding: 0;
+}
+
+.card1-block .card ul li{
+    float: left;
+    
+   
+    list-style-type: none;
+}
+
+.card1-block .card .prev, .next{
+    color: white;
+    width: 50px;
+    height: 100px;
+    font-size: -webkit-xxx-large;
+}
+
+.card1-block .card .cardd1{
+    width: 620px;
+    height: 400px;
+    background:;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+.card .cardd1 h3{
+    text-align: left;
+    padding-left: 20px;
+}
+
+.card1-block .card .cardd2{
+    width: 290px;
+    height: 400px;
+    padding-top: 50px;
+    background: ;
+    margin: 0;
+    padding: 0;
+    background-image: url(18.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-blend-mode: soft-light; 
+    box-shadow: 0 4px 8px 0 rgb(240, 231, 231), 0 6px 20px 0 rgba(255, 249, 249, 0.19);
+
+}
+
+
+.card2{
+    height: 800px;
+    background:rgb(212, 212, 210);
+}
+
+.card2 .card2-block{
+    width: 1000px;
+    height: 800px;
+    background:rgb(212, 212, 210);
+    margin: auto auto;
+}
+
+.card2-block  h3{
+    width: 100%;
+    height: 70px;
+    margin: 0px;
+    padding-top: 30px;
+    padding-left: 20px;
+
+
+    
+}
+
+.card2-block .card{
+    width:140px;
+    height: 250px;
+
+    margin-bottom: 30px;
+    margin-left: 30px;
+    float: left;
+    border: 1px solid rgb(255, 253, 253);
+    padding: 10px 10px 0 10px;
+    background: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.card2-block .card img{
+  height: 200px;
+  width: 100%;
+        
+}
+
+.card2-block  .see-more{
+    width: 100%;
+    height: 20px;
+    text-align: center;
+    padding-top: 600px;
+   
+   
+}
+
+.see-more h3{
+    height: 30px;
+    width: 100%;
+    text-align: center;
+    
+}
+
+.card3{
+    height: 350px;
+    background: rgb(43, 42, 42);
+}
+
+.card3 .card3-block{
+    width: 1000px;
+    height: 340px;
+    background:rgb(43, 42, 42);
+    margin: 0  auto;
+    padding-top: 10px;
+    
+}
+
+
+.card3-block  h3{
+    width: 100%;
+    height: 30px;
+    margin:10px;
+    color: white;
+    text-align: center;
+
+    
+}
+
+.card3-block 
+
+.card3-block .cardd3{
+    width:1000px;
+    height: 200px;
+   
+    float: left;
+    
+}
+
+.card3-block .cardd3 ul{
+    width: 100%;
+    height: 200px;
+    float: left;
+}
+
+.card3-block .cardd3 ul li{
+    width: 120px;
+    height: 200px;
+    float: left;
+    list-style-type: none;
+    padding-left: 0;
+    text-align: center;
+}
+
+.card3-block .cardd3 img{
+        height: 140px;
+        width: 100px;
+        border: 1px black;
+        box-shadow: 0 0.3em 1em #000;
+
+        
+}
+
+.card3-block .cardd3 .slprev, .slnext{
+    color: white;
+    width: 50px;
+    height: 50px;
+    font-size: -webkit-xxx-large;
+
+}
+
+.card3-block .notee{
+    width:  1000px;
+    height: 20px;
+    padding-top: 220px;
+    color: white;
+}
+
+.card3-block .notee p{
+    text-align: center;
+
+}
+
+
+.card4{
+    height: 500px;
+    background:rgb(212, 212, 210);
+    margin: 0;
+    
+}
+
+.card4 .card4-block{
+    width: 1000px;
+    height: 400px;
+    background:white;
+    margin: 0  auto;
+    padding-top: 50px;
+    
+}
+
+
+.card4-block  h3{
+    width: 100%;
+    height: 40px;
+    margin:10px;
+    padding-top: 20px;
+
+    
+}
+
+.card4-block .card{
+    width:1000px;
+    height: 210px;
+   
+    float: left;
+    
+}
+
+.card4-block .card ul{
+    width: 100%;
+    height: 200px;
+    float: left;
+}
+
+.card4-block .card ul li{
+    width: 150px;
+    height: 200px;
+    float: left;
+    list-style-type: none;
+    padding-left: 7px;
+}
+
+.card4-block .card img{
+        height: 180px;
+        width: 120px;
+        border: 1px black;
+        box-shadow: 0 0.3em 1em #000;
+
+        
+}
+
+.card4-block .note{
+    width:  1000px;
+    height: 20px;
+    padding-top: 270px;
+}
+
+.card4-block .note p{
+    text-align: center;
+
+}
+
+
+.footer-section{
+    height: 100px;
+    background:white;
+    margin: 0;
+}
+
+.footer-block {
+    width: 1000px;
+    height: 100px;
+    background:white;
+    margin: 0 auto;
+}
+
+.footer-block .footer-logo{
+    width: 1000px;
+    height: 20px;
+    float: left;
+    padding: 30px 0 0 0;
+    margin:0;
+}
+
+.footer-block .copyrights{
+    width: 1000;
+    height: 40;
+}
